@@ -1,0 +1,31 @@
+Steps to Create an Angular 7 Hello world Program
+
+1. Make sure you have installed node.To check the version
+  node -v
+  npm -v
+  
+  Note: Angular requires Node.js version 8.x or 10.x.
+  
+2. Install CLI
+  (The Angular CLI makes it easy to create an application,deploying,Testing,Bundling and Many more)
+  
+  sudo npm install -g @angular/cli
+  
+3. Create a workspace and Hello-world project by running the command
+  
+  ng new Hello-world
+  
+  This will create Hello-world project with all the necessary dependencies.
+  
+4. Launch the server.Go to the Hello-world folder and run the command
+
+  ng serve --open
+  
+  The --open option automatically opens your browser to http://localhost:4200/.
+
+
+  
+  
+  
+  
+  
